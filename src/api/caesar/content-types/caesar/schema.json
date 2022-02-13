@@ -4,7 +4,8 @@
   "info": {
     "singularName": "caesar",
     "pluralName": "caesars",
-    "displayName": "caesar"
+    "displayName": "caesar",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -13,6 +14,12 @@
   "attributes": {
     "Name": {
       "type": "string"
+    },
+    "imgURL": {
+      "type": "string"
+    },
+    "Birth": {
+      "type": "time"
     }
   }
 }
