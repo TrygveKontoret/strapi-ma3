@@ -19,7 +19,10 @@
       "type": "string"
     },
     "Birth": {
-      "type": "time"
+      "type": "string"
+    },
+    "Death": {
+      "type": "string"
     }
   }
 }
