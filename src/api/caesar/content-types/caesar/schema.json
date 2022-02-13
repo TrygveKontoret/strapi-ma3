@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "caesars",
+  "info": {
+    "singularName": "caesar",
+    "pluralName": "caesars",
+    "displayName": "caesar"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}
